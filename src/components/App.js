@@ -12,7 +12,8 @@ const App = () => {
       <SubHeading />
       <SubmitButton />
     </div>
-  )
-}
+  );
+};
+export default App;
 
 
